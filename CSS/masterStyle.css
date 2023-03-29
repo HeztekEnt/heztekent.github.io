@@ -1,0 +1,12 @@
+*{ /*Global Check*/
+  font-family: arial;
+  text-decoration: none;
+}
+ul{
+  width: 100%;
+}
+li{
+  Display : inline-block;
+  padding : 2em;
+
+}
