@@ -2,11 +2,11 @@
   font-family: arial;
   text-decoration: none;
 }
-ul{
-  width: 100%;
+nav{
+  width:100%;
 }
 li{
   Display : inline-block;
   padding : 2em;
-
+  background-color: red;
 }
